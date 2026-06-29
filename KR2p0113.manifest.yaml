@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR2p0113/v1
+canonical_location: https://kanripo.org/bkk/KR2p0113/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 甘肅玉門花海漢簡
+  identifiers:
+    krp: KR2p0113
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0113.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0113_001.yaml, hash: 'sha256:926b4be7674f589b449a520e43efd0e9d47fd7b27a20e41a704d0291e6e58512'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0113_001.markers.yaml, hash: 'sha256:5f663384649fb3b39c1f065c309c8c38613f3a75d9461e2e98c6262e138445a2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0113_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 863
+  label: 散見簡牘合輯甘肅玉門花海漢簡
+  type: section
+  level: 1
+hash: sha256:4e3ce0b842817bfce25e6f9ebc06c6d397c460544814189a8f6578651da3b11b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
