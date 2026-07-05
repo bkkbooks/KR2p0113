@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0113_001.yaml, hash: 'sha256:926b4be7674f589b449a520e43efd0e9d47fd7b27a20e41a704d0291e6e58512'}
+  - {seq: 1, filename: KR2p0113_001.yaml, hash: 'sha256:a51c5b9ac175e503cde3bef34ad1ff9a748480a36f5c86f4a1787117de4492a9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0113_001.markers.yaml, hash: 'sha256:5f663384649fb3b39c1f065c309c8c38613f3a75d9461e2e98c6262e138445a2'}
+  - {seq: 1, role: markers, filename: assets/KR2p0113_001.markers.yaml, hash: 'sha256:d357ea5168d8bff0af070fa60124fbfa179b8188fed5b4867eaba66f7f355c8b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 散見簡牘合輯甘肅玉門花海漢簡
   type: section
   level: 1
-hash: sha256:4e3ce0b842817bfce25e6f9ebc06c6d397c460544814189a8f6578651da3b11b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d41a8506a00b6850a04f86c73438ce7224dba35c77c0ac3a6928c91741fc03a5
