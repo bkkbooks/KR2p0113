@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0113/v1
 canonical_location: https://kanripo.org/bkk/KR2p0113/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 甘肅玉門花海漢簡
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0113_001.yaml, hash: 'sha256:a51c5b9ac175e503cde3bef34ad1ff9a748480a36f5c86f4a1787117de4492a9'}
+  - {seq: 1, filename: KR2p0113_001.yaml, hash: 'sha256:9070567d43c2e1273183f68feb2427b4818d0c9edd174d8ef988d4f56d001ccc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0113_001.markers.yaml, hash: 'sha256:d357ea5168d8bff0af070fa60124fbfa179b8188fed5b4867eaba66f7f355c8b'}
+  - {seq: 1, role: markers, filename: assets/KR2p0113_001.markers.yaml, hash: 'sha256:9fac359e966dbf5f8e69b1d5d0a2aa965d6d38d3c5d64ea31bdbfa0ee223cdf5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯甘肅玉門花海漢簡
   type: section
   level: 1
-hash: sha256:d41a8506a00b6850a04f86c73438ce7224dba35c77c0ac3a6928c91741fc03a5
+hash: sha256:16d8c38f4706ab4e2cad430c32d34a7e9b4bc202586421c9cf577d9f16d220cc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
